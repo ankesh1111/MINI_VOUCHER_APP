@@ -1,0 +1,14 @@
+#voucher_list{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
+  }
+  #voucher_list>div{
+    width: 300px;
+    border: 1px solid black;
+    height: 400px;
+  }
+  #voucher_list>div>img{
+    width: 280px;
+    height: 250px;
+  }

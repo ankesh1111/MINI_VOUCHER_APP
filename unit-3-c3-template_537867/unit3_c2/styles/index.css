@@ -1,0 +1,37 @@
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+#navbar{
+    text-align: center;
+    margin-top: 30px;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width:200px;
+ 
+    justify-content: center;
+    justify-items: center;
+
+}
+#form input{
+    
+    padding: 10px;
+}
+#submit{
+    background-color: deeppink;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+#submit:hover{
+background-color: orangered;
+ 
+}
+a{
+    font-size: 25px;
+    border: none;
+    color: crimson;
+}
